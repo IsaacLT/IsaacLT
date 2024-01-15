@@ -7,7 +7,7 @@ The FlossBoss project is a web-based system for dental appointment management th
 - [Java Repository](https://github.com/joelcelen/flossboss-java-repo)
 - [Client-Server Repository](https://github.com/KalleErikssoon/Flossboss-client-server)
 --- 
-## Doughflow Dashboard
+## DoughFlow Dashboard
 A web-based financial tool for managing expenses. A traditional client-server architecture developed using JavaScript, Node.js, and VUE.js
 ### Related Repository
 - [DoughFlow Repository](https://github.com/IsaacLT/DoughFlow-Dashboard)
