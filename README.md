@@ -9,12 +9,12 @@ The FlossBoss project is a web-based system for dental appointment management th
 --- 
 ## Doughflow Dashboard
 A web-based financial tool for managing expenses. A traditional client-server architecture developed using JavaScript, Node.js, and VUE.js
-### Related Repositories
+### Related Repository
 - [DoughFlow Repository](https://github.com/IsaacLT/DoughFlow-Dashboard)
 ---
 ## Shusher
 The Shusher project is a multi-platform system combining micro-controllers, sensors and actuators with software. The project’s purpose is to develop a system that warns a user when exceeding a given noise level threshold. The system's integrates a WIO Terminal with sensors and uses the C programming language for effective communication and data exchange, ensuring precise sensor readings. Additionally, the Shusher application is developed with JavaFX, employing scene-builder for a rich, user-friendly interface.
-### Related Repositories
+### Related Repository
 - [Shusher Repository](https://github.com/IsaacLT/Shusher)
 ---
 <!---
