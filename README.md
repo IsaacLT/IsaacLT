@@ -23,7 +23,7 @@ The Shusher project is a multi-platform system combining micro-controllers, sens
 - [Shusher Repository](https://github.com/IsaacLT/Shusher)
 ---
 # Certifications
-* ![AWS Certified Developer – Associate](https://www.credly.com/badges/93f8563a-bb57-4c57-abfb-d305717a284c/public_url)
+* **AWS Certified Developer - Associate** (Issued: March 2025)
 <!---
 IsaacLT/IsaacLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
