@@ -1,5 +1,5 @@
 # Hi, I’m Isaac 👋
-I am a highly motivated software engineering student at the University of Gothenburg, currently in my third year. I have a solid foundation in both back-end and front-end development, with particular strengths in problem-solving and system integration. Through academic projects and teamwork, I have developed my technical and collaboration skills, which I am now eager to apply and expand in a professional environment.
+
 # Projects
 ## ChartSmart AI
 Leverages machine learning and technical indicators (RSI, MACD, EMA) to generate "buy," "sell," or "hold" recommendations. Trained on market trends and future price movements to help users make informed trading decisions and understand various trading strategies.
