@@ -1,25 +1,65 @@
 # Hi, I’m Isaac 👋
+Embedded software engineer currently working on 5G telecom software at Ericsson.
+I specialize in:
+* C / C++ systems programming
+* Linux systems development
+* Embedded systems and hardware integration
+* Unit / Integration testing and Debugging
+
+Below are some of the projects I built during my software engineering degree at the University of Gothenburg.
 
 # Projects
 ## ChartSmart AI
-Leverages machine learning and technical indicators (RSI, MACD, EMA) to generate "buy," "sell," or "hold" recommendations. Trained on market trends and future price movements to help users make informed trading decisions and understand various trading strategies.
+A machine learning system that analyzes financial market data and technical indicators to generate trading signals.
+
+**Features:**
+* Machine learning pipeline for analyzing historical market data
+* Technical indicators including RSI, MACD, and EMA
+* Classification model predicting buy, sell, or hold signals
+* Data processing and feature engineering for time-series analysis
+
+**Technologies:** Python, Machine Learning, Financial Time-Series Analysis
 ### Related Repository
 - [ChartSmart AI Repository](https://github.com/KalleErikssoon/ChartSmartAI)
 ---
 ## Flossboss
-The FlossBoss project is a web-based system for dental appointment management that combines a client/server model with a service-oriented approach to efficiently manage dental appointments. Employing a React-based Patient GUI on the front end and an Express.js server on the back end for user data handling through HTTP REST API. The system leverages MQTT as a communication protocol, where the server, instead of direct database operations for bookings, publishes booking requests and subscribes to booking confirmations, enabling real-time updates via SSE. The Service Layer encapsulates the booking logic, dentist authentication, email notifications, and logging, with services subscribing to and publishing on MQTT topics for a decoupled, event-driven workflow that provides real-time notifications, enhancing user experience and system maintainability.
+A distributed dental appointment management system using a service-oriented architecture.
+
+**Features:**
+* React frontend and Express backend
+* REST API for patient and appointment management
+* Event-driven booking system using MQTT messaging
+* Real-time updates via Server-Sent Events (SSE)
+
+**Technologies:** React, Node.js, MQTT, REST APIs
 ### Related Repositories
 - [Java Repository](https://github.com/joelcelen/flossboss-java-repo)
 - [Client-Server Repository](https://github.com/KalleErikssoon/Flossboss-client-server)
 --- 
 ## DoughFlow Dashboard
-A web-based financial tool for managing expenses. A traditional client-server architecture developed using JavaScript, Node.js, and VUE.js
+A web-based personal finance dashboard for tracking and managing expenses.
+
+**Features:**
+* Client-server architecture for financial data management
+* Interactive dashboard for visualizing expenses
+* REST API for storing and retrieving financial data
+* Web interface for tracking personal spending
+
+**Technologies:** JavaScript, Node.js, Vue.js
 ### Related Repository
 - [DoughFlow Repository](https://github.com/IsaacLT/DoughFlow-Dashboard)
 ---
 ## Shusher
-The Shusher project is a multi-platform system combining micro-controllers, sensors and actuators with software. The project’s purpose is to develop a system that warns a user when exceeding a given noise level threshold. The system's integrates a WIO Terminal with sensors and uses the C programming language for effective communication and data exchange, ensuring precise sensor readings. Additionally, the Shusher application is developed with JavaFX, employing scene-builder for a rich, user-friendly interface.
-### Related Repository
+An embedded noise-monitoring system that detects when sound levels exceed a defined threshold and alerts the user.
+
+**Features:**
+* WIO Terminal microcontroller with integrated sensors
+* Real-time noise level detection and threshold alerts
+* Communication between embedded firmware and desktop application
+* JavaFX interface for monitoring and user interaction
+
+**Technologies:** C, Microcontrollers, Sensors, JavaFX
+### Repository
 - [Shusher Repository](https://github.com/IsaacLT/Shusher)
 ---
 # Certifications
