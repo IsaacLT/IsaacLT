@@ -24,7 +24,7 @@ The Shusher project is a multi-platform system combining micro-controllers, sens
 ---
 # Certifications
 * **AWS Certified Developer - Associate** (Issued: March 2025)
-* **C and C++ Specialization, University of California, Santa Cruz (Issued: February 2026)
+* **C and C++ Specialization, University of California, Santa Cruz** (Issued: February 2026)
 <!---
 IsaacLT/IsaacLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
